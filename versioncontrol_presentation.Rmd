@@ -46,5 +46,24 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("images/gitkraken.png")
 ```
 
-## 
+- Easy to go back to different versions of project, or see what changes were made to a file
+- [Example](https://github.com/weiyangtham/stem_cells/commits/master/paper.Rmd)
+
+## How I use Github
+- [Github repo(sitory) for this project](https://github.com/weiyangtham/github_demo)
+- Using "Issues" to keep track of tasks - [example from a real project](https://github.com/weiyangtham/spillovers_studysections/issues)
+- Easy to move code across computers 
+- One repo for one project: centralize code if there are multiple collaborators
+
+## Branching
+- Want to experiment with code but afraid of messing up the entire project? Create a new timeline that won't affect the "master" branch
+
+## Costs
+- Installation can be a pain
+- Traditionally, people have used git through the command line
+- But now there are GUIs that are easy to use and visualize what git is doing
+    - Gitkraken, which I showed you
+    - RStudio has a basic git GUI 
+- Settling on standards for how projects should be organized, what coding conventions to follow
+
 
