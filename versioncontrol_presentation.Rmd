@@ -1,0 +1,36 @@
+---
+title: " Version control \n or \n \"paper_final_v2_oops_reallyfinal.docx\" no more"
+author: "Tham, Wei Yang"
+date: "1/27/2018"
+output: revealjs::revealjs_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Current workflow
+
+1. Someone inititates a project
+1. After tasks are assigned - code + files are stored on your own computer
+1. Sometimes data and files are stored on the lab Google Drive 
+1. Code and data generally shared by email
+1. Communication and keeping track of tasks - combination of email + team meetings
+
+## Takeaway
+
+- Code and data distributed over a bunch of personal computers that are connected by Gmail (and Google Drive when we feel like it) 
+- Downsides
+    + Idiosyncratic ways of coding and organizing code
+    + Dependent on individuals to keep track of tasks
+    + Hard to see what everyone else is doing
+    + Digging up old discussions by email is hard (e.g. too many "Meeting" subject headings)
+    
+## What are the alternatives?
+
+- "General" task management tools: [Trello](https://trello.com/), [Basecamp](https://basecamp.com/how-it-works)
+    + I've don't know much about these
+- Version control: Git + Github
+    + Other options: Bitbucket
+    
+## 
