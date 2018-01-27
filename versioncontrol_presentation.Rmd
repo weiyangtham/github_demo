@@ -38,3 +38,9 @@ knitr::opts_chunk$set(echo = TRUE)
 - Like a computer game: save at different points along a quest, and load the game at any point in the past
 - Git is a version control software, Github is an online version control repository
 
+## Version control
+
+```{r, eval = FALSE}
+knitr::include_graphics("images/")
+```
+
