@@ -30,7 +30,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - "General" task management tools: [Trello](https://trello.com/), [Basecamp](https://basecamp.com/how-it-works)
     + I've don't know much about these
-- Version control: Git + Github
+- Version control: **Git + Github**
     + Other options: Bitbucket
     
-## 
+## Version control
+- Saves versions of a project
+- Like a computer game: save at different points along a quest, and load the game at any point in the past
+- Git is a version control software, Github is an online version control repository
+
