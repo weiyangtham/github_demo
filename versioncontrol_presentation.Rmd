@@ -52,7 +52,7 @@ knitr::include_graphics("images/gitkraken.png")
 ## How I use Github
 - [Github repo(sitory) for this project](https://github.com/weiyangtham/github_demo)
 - Using "Issues" to keep track of tasks - [example from a real project](https://github.com/weiyangtham/spillovers_studysections/issues)
-- Easy to move code across computers 
+- Easy to move code across computers - I just need to clone the repository if I want to work on a new computer 
 - One repo for one project: centralize code if there are multiple collaborators
 
 ## Branching
