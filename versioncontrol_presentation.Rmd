@@ -2,7 +2,9 @@
 title: " Version control \n or \n \"paper_final_v2_oops_reallyfinal.docx\" no more"
 author: "Tham, Wei Yang"
 date: "1/27/2018"
-output: revealjs::revealjs_presentation
+output: 
+  revealjs::revealjs_presentation:
+    css: css/mycss.css
 ---
 
 ```{r setup, include=FALSE}
@@ -40,7 +42,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Version control
 
-```{r, eval = FALSE}
-knitr::include_graphics("images/")
+```{r, echo = FALSE, out.width = "80%"}
+knitr::include_graphics("images/gitkraken.png")
 ```
+
+## 
 
