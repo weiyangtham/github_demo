@@ -59,11 +59,18 @@ knitr::include_graphics("images/gitkraken.png")
 - Want to experiment with code but afraid of messing up the entire project? Create a new timeline that won't affect the "master" branch
 
 ## Costs
-- Installation can be a pain
-- Traditionally, people have used git through the command line
-- But now there are GUIs that are easy to use and visualize what git is doing
-    - Gitkraken, which I showed you
-    - RStudio has a basic git GUI 
-- Settling on standards for how projects should be organized, what coding conventions to follow
+- Setting up + learning curve
+    + Traditionally, people have used git through the command line
+- But now there are GUIs that are easy to use and visualize what git is doing (Gitkraken, RStudio)
+- For the kind of work we do, don't need complete mastery of Git
 
+## Not purely a technology or tooling problem
+- Settling on standards for how projects should be organized e.g. folder structures, coding conventions
+
+## Optional slide: Slack
+- One day I realized I have too many emails with "Subject: meeting" or "Subject: talking"
+- Messaging for work - think IRC/MSN messenger/AIM
+- Organize conversations by projects using "channels" - show example 
+- Can share attachments 
+- Why I like it: old conversations/files share are all in one place 
 
